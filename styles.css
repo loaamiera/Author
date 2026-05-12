@@ -334,7 +334,6 @@
     #wrapper{
         display: inline-flex;
         background-color: white !important ;
-        max-width: 1000px ;
         padding: 2em ;
         margin: auto ;
         float:center ;
