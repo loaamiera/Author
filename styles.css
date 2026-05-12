@@ -75,7 +75,8 @@
         background-color: #333333 ;
         color: white ;
         justify-content: center ;
-        max-width: 50% ;
+         display: inline-flex ;
+        justify-content: center ;
 
     }
     .image{
@@ -224,7 +225,8 @@
         clear: both ;
     }
     footer{
-        max-width: 50% ;
+        display: inline-flex ;
+        justify-content: center ;
         max-width: 600px ;
         padding-top: 2% ;
         margin: auto ;
@@ -367,9 +369,10 @@
     }
 
 footer{
+        display: inline-flex ;
+        justify-content: center ;
         margin: auto ;
         padding: 2% ;
-        max-width: 50% ;
         text-align: center ;
         float: center ;
         background-color: #333333 ;
