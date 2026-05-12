@@ -14,6 +14,7 @@
         display: inline-flex;
         text-align: center ;
         min-height: 33% ;
+        max-width: 50% ;
     }
     html{
         background-color: lightblue;
@@ -185,6 +186,7 @@
         float: center ; 
         margin: auto ;
         min-height: 33% ;
+        max-width: 50% ;
     }
     html{
         background-color: lightblue
@@ -338,6 +340,7 @@
         float:center ;
         text-align: center ;
         min-height: 33% ;
+       max-width: 50% ;
     }
     html{
         background-color: lightblue
