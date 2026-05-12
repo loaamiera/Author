@@ -1,3 +1,4 @@
+
 @media screen and ( max-width: 600px) { 
     .center{
         display : grid;
@@ -12,6 +13,7 @@
         margin: auto ;
         display: inline-flex;
         text-align: center ;
+        min-height: 33% ;
     }
     html{
         background-color: lightblue;
@@ -182,6 +184,7 @@
         padding: 1em ;
         float: center ; 
         margin: auto ;
+        min-height: 33% ;
     }
     html{
         background-color: lightblue
@@ -334,6 +337,7 @@
         margin: auto ;
         float:center ;
         text-align: center ;
+        min-height: 33% ;
     }
     html{
         background-color: lightblue
