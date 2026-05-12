@@ -66,9 +66,9 @@
     }
     .clear{
         clear: both ;
+        max-width: 50% ;
     }
     footer{
-        max-width: 50% ;
         margin: auto ;
         padding: 2% ;
         text-align: center ;
@@ -225,6 +225,7 @@
     }
     .clear{
         clear: both ;
+         max-width: 50% ;
     }
     footer{
         max-width: 50% ;
@@ -390,6 +391,7 @@ footer{
     }
     .clear{
         clear: both ;
+        max-width: 50% ;
     }
 
     .image{
