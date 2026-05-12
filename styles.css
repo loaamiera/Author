@@ -371,14 +371,16 @@
     }
 
 footer{
-        justify-content: center ;
-        margin: auto ;
+        margin-top: 0px ;
+        margin-left: auto ;
+        margin-right: auto ;
+        margin-bottom: auto ;
         padding: 2% ;
+        max-width: 1000px ;
         text-align: center ;
         float: center ;
         background-color: #333333 ;
         color: white ;
-        max-width: 500px ;
 
     } 
 
